@@ -14,4 +14,4 @@ This Project is a case study of solving business problem of Fraudulent_Claim_Det
 	
 
 # git link
-git clone [https://github.com/rpentela/Fraudulent_Claim_Detection_Raghu_Rishabh_Priti.git](https://www.google.com/search?q=https://github.com/rpentela/Fraudulent_Claim_Detection_Raghu_Rishabh_Priti.git)
+git clone [https://github.com/rpentela/Fraudulent_Claim_Detection.git](https://www.google.com/search?q=https://github.com/rpentela/Fraudulent_Claim_Detection.git)
